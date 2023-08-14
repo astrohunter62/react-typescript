@@ -2,8 +2,6 @@
 
 This repository is how I prefer to bootstrap a React project.
 
-See [create-react-app original README](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) for more information about React.
-
 ## What's Included
 
 - [React](https://reactjs.org/)
